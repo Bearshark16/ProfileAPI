@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Pokemon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Jacob</Name>
+  <Hp>88</Hp>
+  <Attack>88</Attack>
+  <Defence>88</Defence>
+  <Speed>88</Speed>
+</Pokemon>

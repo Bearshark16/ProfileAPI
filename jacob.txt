@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<UserProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserName>Jacob</UserName>
+  <Password>12345</Password>
+  <ApiKey>EBlPx0/SGhygvzqnl/3S9RDvfQoKQC/96oCgiPKeEYY=</ApiKey>
+</UserProfile>

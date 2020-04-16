@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Anna</Name>
+  <Age>18</Age>
+  <Klass>te17a</Klass>
+  <Email>anna@gmail.com</Email>
+  <Description>Likes drawing</Description>
+</Person>
